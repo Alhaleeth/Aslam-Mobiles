@@ -46,7 +46,7 @@ export const SEO: React.FC<SEOProps> = ({
     if (ogDesc) ogDesc.setAttribute('content', description);
 
     // 5. Canonical URL
-    const baseUrl = 'https://aslam-mobiles.vercel.app';
+    const baseUrl = 'https://aslammobiles.shop';
     const currentPath = canonicalPath || location.pathname;
     const fullCanonicalUrl = `${baseUrl}${currentPath === '/' ? '' : currentPath}`;
 
