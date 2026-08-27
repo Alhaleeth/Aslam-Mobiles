@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #0F172A;
+    background-color: #F8FAFC;
+    scroll-behavior: smooth;
+  }
+
+  /* Safe padding on mobile screens so sticky bottom action bar never obstructs content */
+  body {
+    padding-bottom: 70px;
+  }
+  @media (min-width: 768px) {
+    body {
+      padding-bottom: 0;
+    }
+  }
+}
+
+/* High-Tech Mobile Repair Background Patterns */
+.bg-tech-circuit {
+  background-image: 
+    radial-gradient(circle at 50% 0%, rgba(0, 229, 255, 0.12) 0%, transparent 60%),
+    radial-gradient(circle at 100% 50%, rgba(0, 132, 255, 0.1) 0%, transparent 50%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='%2300e5ff' fill-opacity='0.04'%3E%3Cpath fill-rule='evenodd' d='M0 0h40v40H0V0zm40 40h40v40H40V40zm0-40h2v40h-2V0zm-40 40h40v2H0v-2zm40 0h40v2H40v-2zm0-40h40v2H40V0z'/%3E%3Ccircle cx='40' cy='40' r='3'/%3E%3Ccircle cx='0' cy='0' r='2'/%3E%3Ccircle cx='80' cy='80' r='2'/%3E%3Ccircle cx='80' cy='0' r='2'/%3E%3Ccircle cx='0' cy='80' r='2'/%3E%3Cpath d='M20 20h2v10h10v2H20V20zm40 20h-2v10H48v2h12V40zm-10-30h10v2H50V10zm-20 60h10v2H30V70z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.bg-tech-grid {
+  background-image: 
+    linear-gradient(to right, rgba(0, 132, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 132, 255, 0.05) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.bg-tech-dots {
+  background-image: radial-gradient(rgba(0, 132, 255, 0.12) 1.2px, transparent 1.2px);
+  background-size: 24px 24px;
+}
+
+.bg-circuit-accent {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cpath d='M0 60h30l15-20h30l15 20h30M60 0v30l-20 15v30l20 15v30' fill='none' stroke='%2300e5ff' stroke-width='1' stroke-opacity='0.08'/%3E%3Ccircle cx='45' cy='40' r='3' fill='%2300e5ff' fill-opacity='0.15'/%3E%3Ccircle cx='75' cy='40' r='3' fill='%2300e5ff' fill-opacity='0.15'/%3E%3Ccircle cx='60' cy='60' r='4' fill='%2300e5ff' fill-opacity='0.2'/%3E%3C/svg%3E");
+}
+
+/* Glassmorphism & Cyber Tech Cards */
+.glass-cyber {
+  background: rgba(7, 15, 34, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 229, 255, 0.18);
+}
+
+.glass-cyber:hover {
+  border-color: rgba(0, 229, 255, 0.4);
+  box-shadow: 0 12px 30px -6px rgba(0, 229, 255, 0.2);
+}
+
+.card-tech {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-tech:hover {
+  transform: translateY(-4px);
+  border-color: rgba(0, 132, 255, 0.4);
+  box-shadow: 0 16px 32px -4px rgba(0, 132, 255, 0.14), 0 4px 12px -2px rgba(11, 25, 44, 0.04);
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B192C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1E3E62;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0084FF;
+}
+
+/* Smooth transitions */
+.transition-smooth {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Badge styling */
+.badge-navy {
+  @apply bg-navy-900/10 text-navy-800 border border-navy-900/20 font-medium;
+}
+
+.badge-blue {
+  @apply bg-blue-50 text-electric-600 border border-blue-200 font-medium;
+}
+
+.badge-green {
+  @apply bg-emerald-50 text-emerald-700 border border-emerald-200 font-medium;
+}
+
+.badge-cyber {
+  background: rgba(0, 229, 255, 0.1);
+  color: #00E5FF;
+  border: 1px solid rgba(0, 229, 255, 0.3);
+}
