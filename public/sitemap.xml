@@ -6,7 +6,7 @@
   
   <!-- Home Page -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/</loc>
+    <loc>https://aslammobiles.shop/</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Mobile Repair & Services (Pattukkottai, Senthalai, Kattumavadi) -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/services</loc>
+    <loc>https://aslammobiles.shop/services</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
@@ -22,7 +22,7 @@
 
   <!-- Mobile Sales & Smartphone Catalog -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/sales</loc>
+    <loc>https://aslammobiles.shop/sales</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -30,7 +30,7 @@
 
   <!-- Online Service Request & Repair Booking -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/service-request</loc>
+    <loc>https://aslammobiles.shop/service-request</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -38,7 +38,7 @@
 
   <!-- Mobile Accessories & Gadgets -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/accessories</loc>
+    <loc>https://aslammobiles.shop/accessories</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -46,7 +46,7 @@
 
   <!-- Digital & Travel E-Services (Flight & Bus Tickets) -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/e-services</loc>
+    <loc>https://aslammobiles.shop/e-services</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -54,7 +54,7 @@
 
   <!-- Contact & Store Location (ECR Road, Senthalaippattinam) -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/contact</loc>
+    <loc>https://aslammobiles.shop/contact</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -62,7 +62,7 @@
 
   <!-- About Business & Owner Anvar Ibrahim -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/about</loc>
+    <loc>https://aslammobiles.shop/about</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -70,7 +70,7 @@
 
   <!-- Store & Repair Gallery -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/gallery</loc>
+    <loc>https://aslammobiles.shop/gallery</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
@@ -78,7 +78,7 @@
 
   <!-- Frequently Asked Questions -->
   <url>
-    <loc>https://aslam-mobiles.vercel.app/faq</loc>
+    <loc>https://aslammobiles.shop/faq</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
