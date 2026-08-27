@@ -8,8 +8,10 @@ export const ServiceRequestPage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Request Mobile Repair & Service | Aslam Mobiles"
-        description="Book your mobile repair online with Aslam Mobiles. Fast turnaround, transparent estimates, and genuine parts for display, glass, and battery replacements."
+        title="Book Mobile Repair Online | Pattukkottai, Senthalai, Kattumavadi | Aslam Mobiles"
+        description="Book your mobile repair online with Aslam Mobiles Senthalai near Pattukkottai & Kattumavadi. Fast turnaround, transparent estimates & genuine display/battery parts on ECR Road."
+        keywords="book mobile repair pattukkottai, online mobile service senthalai, display replacement booking kattumavadi, aslam mobile service request"
+        canonicalPath="/service-request"
       />
 
       {/* Header */}

@@ -52,8 +52,10 @@ export const SalesPage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Latest Smartphones at Competitive Prices | Aslam Mobiles"
-        description="Browse new Android smartphones, budget phones, mid-range devices, and certified pre-owned mobiles at Aslam Mobiles. Enquire directly for live pricing and stock."
+        title="Mobile Sales & Smartphone Store Senthalai, Pattukkottai | Aslam Mobiles"
+        description="Buy new Android phones, budget smartphones & certified pre-owned mobiles at Aslam Mobiles on ECR Road, Senthalaippattinam near Pattukkottai. WhatsApp for today's best price & stock."
+        keywords="mobile sales and service senthalai, mobile shop pattukkottai, aslam mobile, smartphone store senthalai, android phones pattukkottai, used mobiles peravurani, kattumavadi mobile sales"
+        canonicalPath="/sales"
       />
 
       {/* Header Banner */}

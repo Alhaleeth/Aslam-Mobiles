@@ -34,8 +34,10 @@ export const ServicesPage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Mobile Repair & Services | Display, Glass & Hardware | Aslam Mobiles"
-        description="Comprehensive mobile repair services at Aslam Mobiles: display replacement, OCA glass replacement, battery swap, charging port, camera, water damage recovery, and micro-soldering."
+        title="Mobile Service & Repair Pattukkottai, Senthalai, Kattumavadi | Aslam Mobiles"
+        description="Certified mobile repair & service center for Pattukkottai, Senthalai, Kattumavadi & Peravurani: 30-min display replacement, OCA glass touch change, battery replacement, mic/speaker & chip-level repair on ECR Road."
+        keywords="mobile service pattukkottai, mobile service senthalai, mobile service kattumavadi, display replacement pattukkottai, glass replacement senthalai, mobile repair peravurani, touch screen change pattukkottai, aslam mobile service"
+        canonicalPath="/services"
       />
 
       {/* Header Banner */}

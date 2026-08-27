@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Mobile Repair & Services (Pattukkottai, Senthalai, Kattumavadi) -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/services</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Mobile Sales & Smartphone Catalog -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/sales</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Online Service Request & Repair Booking -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/service-request</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Mobile Accessories & Gadgets -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/accessories</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Digital & Travel E-Services (Flight & Bus Tickets) -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/e-services</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Contact & Store Location (ECR Road, Senthalaippattinam) -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/contact</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- About Business & Owner Anvar Ibrahim -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/about</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Store & Repair Gallery -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/gallery</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Frequently Asked Questions -->
+  <url>
+    <loc>https://aslam-mobiles.vercel.app/faq</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>

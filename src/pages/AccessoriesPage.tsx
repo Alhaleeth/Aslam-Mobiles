@@ -34,8 +34,10 @@ export const AccessoriesPage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Mobile Accessories | Chargers, Cases, Tempered Glass | Aslam Mobiles"
-        description="Premium mobile accessories at Aslam Mobiles: 9D tempered glass, camera protectors, fast chargers, braided cables, TWS earbuds, power banks, and car holders."
+        title="Mobile Accessories & Fast Chargers Pattukkottai, Senthalai | Aslam Mobiles"
+        description="Original phone cases, 9D/11D tempered glass, fast charging adapters, Type-C cables, power banks & audio accessories at Aslam Mobiles Senthalai near Pattukkottai."
+        keywords="mobile accessories pattukkottai, tempered glass senthalai, fast charger pattukkottai, mobile case kattumavadi, aslam mobile accessories"
+        canonicalPath="/accessories"
       />
 
       {/* Header */}

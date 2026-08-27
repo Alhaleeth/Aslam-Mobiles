@@ -11,8 +11,10 @@ export const ContactPage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Contact Us | Aslam Mobiles - Owner Anvar Ibrahim"
-        description="Contact Aslam Mobiles for mobile phone sales, repairs, accessories and ticket bookings. Call 7904761412 or 8883871702 or message via WhatsApp."
+        title="Contact Aslam Mobiles | ECR Road Senthalaippattinam, Pattukkottai, Peravurani"
+        description="Contact Aslam Mobiles on ECR Road, Senthalaippattinam (near Pattukkottai & Kattumavadi). Call 7904761412 / 8883871702 or WhatsApp for directions and mobile repair quotes."
+        keywords="aslam mobile contact, mobile service pattukkottai phone number, aslam mobiles senthalai address, ecr road senthalaippattinam mobile shop, anvar ibrahim aslam mobiles"
+        canonicalPath="/contact"
       />
 
       {/* Header */}

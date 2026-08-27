@@ -1,0 +1,6 @@
+# Robots.txt for Aslam Mobiles (Pattukkottai, Senthalai, Kattumavadi)
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://aslam-mobiles.vercel.app/sitemap.xml

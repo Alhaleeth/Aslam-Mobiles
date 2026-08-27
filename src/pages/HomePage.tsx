@@ -64,8 +64,10 @@ export const HomePage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Aslam Mobiles | Mobile Sales, Repair & Digital Services"
-        description="Aslam Mobiles provides mobile phone sales, mobile repair, display and glass replacement, accessories, air ticket booking, bus ticket booking and digital services."
+        title="Aslam Mobiles | Mobile Sales & Service Center (Pattukkottai, Senthalai, Kattumavadi)"
+        description="Aslam Mobiles - Leading mobile repair, screen/glass replacement, smartphone sales, accessories & air/bus ticket booking in Senthalai, Pattukkottai, Kattumavadi & Peravurani on ECR Road."
+        keywords="aslam mobile, aslam mobiles, aslam, mobile service pattukkottai, mobile service senthalai, mobile service kattumavadi, senthalaivayal mobile service, mobile sales and service senthalai, mobile service center pattukkottai, display replacement pattukkottai, glass replacement senthalai"
+        canonicalPath="/"
       />
 
       {/* 3. Hero section */}

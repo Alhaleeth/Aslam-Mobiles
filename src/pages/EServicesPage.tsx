@@ -10,8 +10,10 @@ export const EServicesPage: React.FC = () => {
   return (
     <>
       <SEO
-        title="Digital & E-Services | Air & Bus Ticket Booking | Aslam Mobiles"
-        description="Air ticket booking, bus reservations, online application filing, document scanning, and digital service assistance at Aslam Mobiles."
+        title="Air Ticket & Bus Ticket Booking Senthalai, Kattumavadi, Pattukkottai | Aslam Mobiles"
+        description="Air ticket booking desk, bus reservations, online application filing and digital services at Aslam Mobiles on ECR Road, Senthalaippattinam near Kattumavadi & Pattukkottai."
+        keywords="air ticket booking kattumavadi, bus ticket booking senthalai, flight tickets pattukkottai, e services senthalaippattinam, online application senthalai, aslam travel desk"
+        canonicalPath="/e-services"
       />
 
       {/* Header */}

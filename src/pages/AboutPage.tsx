@@ -54,8 +54,10 @@ export const AboutPage: React.FC = () => {
   return (
     <>
       <SEO
-        title={`About Us | ${BUSINESS_CONFIG.name} - Owner ${BUSINESS_CONFIG.owner}`}
-        description="Learn about Aslam Mobiles, our commitment to quality mobile repairs, honest smartphone sales, accessories, and digital travel services under owner Anvar Ibrahim."
+        title="About Aslam Mobiles | Owner Anvar Ibrahim | Senthalai, Pattukkottai"
+        description="About Aslam Mobiles: Trusted mobile repair, display replacement and digital solutions shop led by Anvar Ibrahim on ECR Road, Senthalaippattinam near Pattukkottai & Kattumavadi."
+        keywords="aslam mobiles owner anvar ibrahim, aslam mobile senthalai history, mobile repair shop senthalaippattinam, pattukkottai mobile technicians"
+        canonicalPath="/about"
       />
 
       {/* Hero Banner */}
